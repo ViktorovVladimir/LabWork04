@@ -5,24 +5,16 @@ namespace UtilsNameSpace02
 {
     using System;
 
+    //--.
     class Utils
     {
         
         //--.
-        public static int Greater(int a, int b)
+        public static void Swap(ref int a, ref int b)
         {
-            if(a > b) 
-            { 
-                return a;
-            }
-            else
-            {
-                return b;
-            }
+            int temp = a;
+            a = b;
+            b = temp;
         }
-
-
     }
-
-
 }

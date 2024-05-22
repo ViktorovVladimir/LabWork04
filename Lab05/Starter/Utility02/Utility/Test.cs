@@ -16,12 +16,9 @@ namespace UtilsNameSpace02
             int y = int.Parse(Console.ReadLine());
 
             //--. Test the Greater() method
-            int greater = Utils.Greater(x, y);
-            Console.WriteLine("The greater value is " + greater);
-
+            Console.WriteLine("Before swap: " + x + ", " + y);
+            Utils.Swap(ref x, ref y);
+            Console.WriteLine("After swap: " + x + ", " + y);
         }
-
-
-
     }
 }
