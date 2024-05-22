@@ -9,17 +9,6 @@ namespace UtilsNameSpace05
     //--.
     class Operation
     {
-        //--. Треугольник существует только тогда, когда сумма двух его сторон больше третьей
-        static bool validTriangle( in double l1, in double l2, in double l3 )
-        {
-            if ((l1 + l2) <= l3 ||
-                (l2 + l3) <= l1 ||
-                (l3 + l1) <= l2 )
-                return false;
-            
-            return true;
-        }
-
         //--. расчёт дискриминанта
         static double discriminant(in double a, in double b, in double c)
         {
@@ -46,21 +35,17 @@ namespace UtilsNameSpace05
                 return -1;
             }
 
+
+            x1 = (-b + Math.Sqrt(D)) / (2 * a);
             //--.
             if ( D == 0 )
             {
-                //--.
-                x1 = (-b + Math.Sqrt(D)) / (2 * a);
-
                 return 0;
             }
 
             //--.
-            x1 = (-b + Math.Sqrt(D) ) / (2 * a);
-            //--.
             x2 = (-b - Math.Sqrt(D)) / (2 * a);
             return 1;
-
 
         }
 

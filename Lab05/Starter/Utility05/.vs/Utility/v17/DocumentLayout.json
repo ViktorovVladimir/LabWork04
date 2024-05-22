@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D300201-79AE-4AB5-A4DF-F7BBA2460147}|Utility\\Utility.csproj|d:\\labs\\labwork04\\lab05\\starter\\utility05\\utility\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D300201-79AE-4AB5-A4DF-F7BBA2460147}|Utility\\Utility.csproj|solutionrelative:utility\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D300201-79AE-4AB5-A4DF-F7BBA2460147}|Utility\\Utility.csproj|d:\\labs\\labwork04\\lab05\\starter\\utility05\\utility\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D300201-79AE-4AB5-A4DF-F7BBA2460147}|Utility\\Utility.csproj|solutionrelative:utility\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D300201-79AE-4AB5-A4DF-F7BBA2460147}|Utility\\Utility.csproj|d:\\labs\\labwork04\\lab05\\starter\\utility05\\utility\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D300201-79AE-4AB5-A4DF-F7BBA2460147}|Utility\\Utility.csproj|solutionrelative:utility\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Test.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility05\\Utility\\Test.cs",
               "RelativeDocumentMoniker": "Utility\\Test.cs",
               "ToolTip": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility05\\Utility\\Test.cs",
               "RelativeToolTip": "Utility\\Test.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADoAAABxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAABxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T17:55:16.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Utils.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility05\\Utility\\Utils.cs",
               "RelativeDocumentMoniker": "Utility\\Utils.cs",
               "ToolTip": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility05\\Utility\\Utils.cs",
               "RelativeToolTip": "Utility\\Utils.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAADkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T17:51:10.933Z",
               "EditorCaption": ""
