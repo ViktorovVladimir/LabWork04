@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility02\\",
+  "WorkspaceRootPath": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D300201-79AE-4AB5-A4DF-F7BBA2460147}|Utility\\Utility.csproj|d:\\labs\\labwork04\\lab05\\starter\\utility02\\utility\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D300201-79AE-4AB5-A4DF-F7BBA2460147}|Utility\\Utility.csproj|d:\\labs\\labwork04\\lab05\\starter\\utility03\\utility\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D300201-79AE-4AB5-A4DF-F7BBA2460147}|Utility\\Utility.csproj|solutionrelative:utility\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D300201-79AE-4AB5-A4DF-F7BBA2460147}|Utility\\Utility.csproj|d:\\labs\\labwork04\\lab05\\starter\\utility02\\utility\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D300201-79AE-4AB5-A4DF-F7BBA2460147}|Utility\\Utility.csproj|d:\\labs\\labwork04\\lab05\\starter\\utility03\\utility\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D300201-79AE-4AB5-A4DF-F7BBA2460147}|Utility\\Utility.csproj|solutionrelative:utility\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Test.cs",
-              "DocumentMoniker": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility02\\Utility\\Test.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility03\\Utility\\Test.cs",
               "RelativeDocumentMoniker": "Utility\\Test.cs",
-              "ToolTip": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility02\\Utility\\Test.cs",
+              "ToolTip": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility03\\Utility\\Test.cs",
               "RelativeToolTip": "Utility\\Test.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T17:55:16.641Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Utils.cs",
-              "DocumentMoniker": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility02\\Utility\\Utils.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility03\\Utility\\Utils.cs",
               "RelativeDocumentMoniker": "Utility\\Utils.cs",
-              "ToolTip": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility02\\Utility\\Utils.cs",
+              "ToolTip": "D:\\Labs\\LabWork04\\Lab05\\Starter\\Utility03\\Utility\\Utils.cs",
               "RelativeToolTip": "Utility\\Utils.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAC4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T17:51:10.933Z",
               "EditorCaption": ""
