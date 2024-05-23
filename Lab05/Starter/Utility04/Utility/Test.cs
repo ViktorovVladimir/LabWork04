@@ -8,7 +8,7 @@ namespace UtilsNameSpace04
     public class Program
     {
         //--.
-        static void FuncInputValues(out double l1, out double l2, out double l3)
+        static void FuncInputValues(out double side1Len, out double side2len, out double side3len)
         {
 
             while (true)
@@ -17,11 +17,11 @@ namespace UtilsNameSpace04
                 try
                 {
                     Console.WriteLine("Введите длину 1-й стороны треугольника: ");
-                    l1 = Double.Parse(Console.ReadLine());
+                    side1Len = Double.Parse(Console.ReadLine());
                     Console.WriteLine("Введите длину 2-й стороны треугольника: ");
-                    l2 = Double.Parse(Console.ReadLine());
+                    side2len = Double.Parse(Console.ReadLine());
                     Console.WriteLine("Введите длину 3-й стороны треугольника: ");
-                    l3 = Double.Parse(Console.ReadLine());
+                    side3len = Double.Parse(Console.ReadLine());
 
                     break;
                 }
@@ -34,7 +34,7 @@ namespace UtilsNameSpace04
         }
 
         //--.
-        static void FuncInputValues(out double l)
+        static void FuncInputValues(out double sideLen)
         {
 
             while (true)
@@ -42,7 +42,7 @@ namespace UtilsNameSpace04
                 try
                 {
                     Console.WriteLine("Введите длину стороны треугольника: ");
-                    l = Double.Parse(Console.ReadLine());
+                    sideLen = Double.Parse(Console.ReadLine());
                     break;
                 }
                 catch 
@@ -58,7 +58,7 @@ namespace UtilsNameSpace04
 
         public static void Main()
         {
-            double l1, l2, l3, rS;
+            double side1Len, side2Len, side3Len, rS;
             bool ok;
 
 
@@ -73,9 +73,9 @@ namespace UtilsNameSpace04
                 {
                     //Console.WriteLine("Равносторонний");
                     //--.
-                    FuncInputValues(out l1);
+                    FuncInputValues(out side1Len);
                     //--.
-                    ok = Operation.GeronS(in l1, in l1, in l1, out rS);
+                    ok = Operation.GeronS(in side1Len, in side1Len, in side1Len, out rS);
                     //--.
 
                     //--.
@@ -89,9 +89,9 @@ namespace UtilsNameSpace04
                     //Console.WriteLine("Не равносторонний");
 
                     //--.
-                    FuncInputValues(out l1, out l2, out l3);
+                    FuncInputValues(out side1Len, out side2Len, out side3Len);
                     //--.
-                    ok = Operation.GeronS(in l1, in l2, in l3, out rS);
+                    ok = Operation.GeronS(in side1Len, in side2Len, in side3Len, out rS);
                     //--.
                     break;
                 }
